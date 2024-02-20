@@ -6,11 +6,7 @@ public class Main {
 		// TODO Auto-generated method stub
 		
 		Ventana ventana = new Ventana();
-		
-		
-		
-		
-		
+	
 	}
 
 }
